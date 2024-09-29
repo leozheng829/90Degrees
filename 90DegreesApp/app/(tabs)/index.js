@@ -81,9 +81,22 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 24,
     fontWeight: "bold",
-    marginBottom: 20,
+    marginBottom: 10,
     textAlign: "center",
     color: "#333",
+  },
+  subtitle: {
+    fontSize: 18,
+    fontWeight: "normal",
+    marginBottom: 10,
+    textAlign: "center",
+    color: "#333",
+  },
+  instructions: {
+    fontSize: 16,
+    marginBottom: 20,
+    textAlign: "center",
+    color: "#555",
   },
   image: {
     width: 200,
